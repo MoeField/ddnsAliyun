@@ -1,0 +1,1 @@
+.\App\Python\python.exe ddnsMain.py
