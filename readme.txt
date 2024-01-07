@@ -1,0 +1,1 @@
+updateV6ddns.bat是负责更新本机ipv6地址到阿里云ddns解析的批处理，依赖于这个文件夹内的python环境。必要的话请将其添加到Windows定时任务
